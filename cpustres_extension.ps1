@@ -13,5 +13,3 @@ function Unzip
 }
 
 Unzip "C:\bootcamp\cpustres.zip" "C:\bootcamp"
-
-#Start cpustres.exe
